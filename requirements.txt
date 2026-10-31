@@ -1,0 +1,11 @@
+# Environment for notebooks/eda_preprocessing_ctgan.ipynb.
+# The 2022 run used Python 3.7 on Google Colab. ctgan 0.5.1 supports Python 3.7-3.9.
+# Apple Silicon: build PyYAML 5.4.1 first (see "Getting started" in README.md).
+numpy
+pandas
+matplotlib
+plotly
+statsmodels
+scikit-learn
+imbalanced-learn
+ctgan==0.5.1

@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the thesis as below."
+title: "Generative Adversarial Network based Synthetic Data Generation System"
+type: software
+repository-code: "https://github.com/srahman7900/UG-Thesis"
+license: MIT
+authors:
+  - family-names: Shuvo
+    given-names: Md. Aukerul Moin
+  - family-names: Rahman
+    given-names: Md. Shohanoor
+    orcid: "https://orcid.org/0009-0004-4447-7502"
+    email: srahman7900@gmail.com
+    website: "https://srahman7900.github.io/"
+keywords:
+  - synthetic data
+  - generative adversarial networks
+  - CTGAN
+  - tabular data
+  - data preprocessing
+  - synthetic data evaluation
+preferred-citation:
+  type: thesis
+  thesis-type: "B.Sc. thesis"
+  title: "Generative Adversarial Network based Synthetic Data Generation System"
+  authors:
+    - family-names: Shuvo
+      given-names: Md. Aukerul Moin
+    - family-names: Rahman
+      given-names: Md. Shohanoor
+      orcid: "https://orcid.org/0009-0004-4447-7502"
+  institution:
+    name: "Rajshahi University of Engineering & Technology"
+    city: Rajshahi
+    country: BD
+  department: "Department of Computer Science & Engineering"
+  year: 2022
+  month: 11
